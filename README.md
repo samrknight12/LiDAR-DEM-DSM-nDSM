@@ -4,6 +4,7 @@ Digital Elevation Model, Digital Surface Model, and normalized Digital Surface M
 ## Data
 ### Source
 The point cloud used for this project was aquired from LidarBC - Open Lidar Data Portal. This can be found at: https://governmentofbc.maps.arcgis.com/apps/MapSeries/index.html?appid=d06b37979b0c4709b7fcf2a1ed458e03
+The represented area is Southern Lower Gibsons BC Canada.
 
 ### Spatial Reference
 ![img](/img1/ele1.PNG) ![img](/img1/ele2.PNG) ![img](/img1/ele3.PNG)
